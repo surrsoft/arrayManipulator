@@ -1,0 +1,5 @@
+export enum ErrorAmEnum {
+  INVALID_ARRAY = 'INVALID_ARRAY',
+  INVALID_INDEX = 'INVALID_INDEX',
+  EMPTY_ARRAY = 'EMPTY_ARRAY',
+}
